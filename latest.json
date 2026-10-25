@@ -1,0 +1,11 @@
+{
+    "version":  "0.9.0",
+    "notes":  "First public release",
+    "pub_date":  "2026-10-25T20:28:36Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLysxOEhzWFd5Mks5OEYvUy80WUNIeUdwMEtNL2tTbXpLc0ZxcGsvSVR1cFo4NXBHTzJNUVpqNWlLT3BBUFRPK3N5elllZi9uVmRsS3Y2WGtNY1ZET3RSamZ0eElQdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYwMTA5CWZpbGU6TXkgSXNsYW5kXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMAp1M2RPRmN1NjZRUFNUUnVRSFYwUzZsZUJuRnNGYWJRYmpzYzRVaDFNQkpxVXJIVGpYdVVNc0w1cE1nc3FuS1BtaDk1UlZjb3NSUllOTlpGa3ZRL3VCQT09Cg==",
+                                             "url":  "https://github.com/Kousal29/my-island-releases/releases/download/v0.9.0/My-Island-Setup-0.9.0.exe"
+                                         }
+                  }
+}
