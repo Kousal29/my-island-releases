@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.0",
-    "notes":  "First public release",
-    "pub_date":  "2026-10-25T20:28:36Z",
+    "version":  "0.9.2",
+    "notes":  "Tools → Files redesign with live progress everywhere, phone transfers with live progress and Disconnect, text to and from your phone, realistic hanging lines with a pet that lives on them (big lines, shortcuts you can change, Ctrl+Alt+L for both), Now playing on the quick bar, a face in the header that reacts to each tab, Library (was Stash) opening on Clipboard, tidier Settings with search, and a steadier colour picker.",
+    "pub_date":  "2026-11-02T21:50:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLysxOEhzWFd5Mks5OEYvUy80WUNIeUdwMEtNL2tTbXpLc0ZxcGsvSVR1cFo4NXBHTzJNUVpqNWlLT3BBUFRPK3N5elllZi9uVmRsS3Y2WGtNY1ZET3RSamZ0eElQdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYwMTA5CWZpbGU6TXkgSXNsYW5kXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMAp1M2RPRmN1NjZRUFNUUnVRSFYwUzZsZUJuRnNGYWJRYmpzYzRVaDFNQkpxVXJIVGpYdVVNc0w1cE1nc3FuS1BtaDk1UlZjb3NSUllOTlpGa3ZRL3VCQT09Cg==",
-                                             "url":  "https://github.com/Kousal29/my-island-releases/releases/download/v0.9.0/My-Island-Setup-0.9.0.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLysxOEhzWFd5Mk9Fc0pzZ3d0REhKYmxXZmtMWTVwMFJpT0RDOVdsWnBVeW5CVU02M3h6dHovdVpTV0pBeXA5SGVzbTFxdDcwcXNtdXl2cGgwTnJnVCtUUXR6RWRQcVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU2MjIyCWZpbGU6TXkgSXNsYW5kXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgpNS1QxRTRtWS9yaUZ6RXdhM0pmbE1JajlaWGV6cTlhWjl4bnRhR2JVT1NRV0hEZDVBcG10V3YvQWlLTFc4Ky9UOGE4UjlGbVc3TFlzRGNGTGpYZjdCZz09Cg==",
+                                             "url":  "https://github.com/Kousal29/my-island-releases/releases/download/v0.9.2/My-Island-Setup-0.9.2.exe"
                                          }
                   }
 }
