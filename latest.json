@@ -1,11 +1,11 @@
 {
-    "version":  "0.9.2",
-    "notes":  "Tools → Files redesign with live progress everywhere, phone transfers with live progress and Disconnect, text to and from your phone, realistic hanging lines with a pet that lives on them (big lines, shortcuts you can change, Ctrl+Alt+L for both), Now playing on the quick bar, a face in the header that reacts to each tab, Library (was Stash) opening on Clipboard, tidier Settings with search, and a steadier colour picker.",
-    "pub_date":  "2026-11-02T21:50:25Z",
+    "version":  "0.9.3",
+    "notes":  "- Plan works like a real calendar: repeat every N days or weeks on the days you choose, monthly or yearly, and end after a date or a number of times\n- Change or delete one event, this and the following ones, or the whole series, with Undo\n- Tap an event for its details: when, repeat, reminders, place, notes and the meeting link\n- A new All view lists every event and task, with search, ticking several to delete, and deleting a date range\n- Events can last several days, have more than one reminder, and need a name before they save\n- Tasks can repeat (\"every monday\" in the add box works too), get a time, and remind you on the notch\n- Codex, GitHub Copilot CLI and Gemini CLI now connect and report to the notch like Claude Code\n- The colour picker picks the real colour (it gave black on many PCs) and its shortcut can be changed\n- Updates show along the bottom of the open notch with a Restart button, and each update tells you what changed",
+    "pub_date":  "2026-11-04T21:33:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLysxOEhzWFd5Mk9Fc0pzZ3d0REhKYmxXZmtMWTVwMFJpT0RDOVdsWnBVeW5CVU02M3h6dHovdVpTV0pBeXA5SGVzbTFxdDcwcXNtdXl2cGgwTnJnVCtUUXR6RWRQcVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU2MjIyCWZpbGU6TXkgSXNsYW5kXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgpNS1QxRTRtWS9yaUZ6RXdhM0pmbE1JajlaWGV6cTlhWjl4bnRhR2JVT1NRV0hEZDVBcG10V3YvQWlLTFc4Ky9UOGE4UjlGbVc3TFlzRGNGTGpYZjdCZz09Cg==",
-                                             "url":  "https://github.com/Kousal29/my-island-releases/releases/download/v0.9.2/My-Island-Setup-0.9.2.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLysxOEhzWFd5Mk1oQUs2QXpGUDRieW1BeGE2RHgyeDdYaGNxdUZDZkVwdXZwTEVqeTdMcWkxM0RneFRYdVhBRk9DM21KbFJONWd6SzgyQ0tkY3lUTFZGZ05saGFzeEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI3OTkzCWZpbGU6TXkgSXNsYW5kXzAuOS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMwpCdmowbUZaYW9mUHFGTWZ3cUNJTXNvSU1QRmFXeEE5MnF3T3NIU2QybFRrNTFyQ3FUZUVsQ3NVMGplZTdmb281SHFwQmZCY2NGbFBUNXB2ZHZ3UzlBQT09Cg==",
+                                             "url":  "https://github.com/Kousal29/my-island-releases/releases/download/v0.9.3/My-Island-Setup-0.9.3.exe"
                                          }
                   }
 }
